@@ -9,3 +9,15 @@
 1. 设计类
 
 - [素材库](https://github.com/StarDawn-VirtualSinger/clip-library)
+
+2. 其他网站
+
+- [爱发电](https://afdian.net/a/starteam)
+
+### 人员
+
+- [Wangs_offficial](https://github.com/Wangs-official) 运营，，技术，人设负责
+- [BlueSu007](https://github.com/BlueSu007) 文案，词作负责
+- [caolvchongp](https://github.com/caolvchongp) 调校负责
+- [southrainy](https://github.com/southrainy) 人设负责
+- 诗韵 文案，音频处理负责
