@@ -16,7 +16,7 @@
 
 ### 人员
 
-- [Wangs_offficial](https://github.com/Wangs-official) 运营，，技术，人设负责
+- [Wangs_offficial](https://github.com/Wangs-official) 运营，技术，人设负责
 - [BlueSu007](https://github.com/BlueSu007) 文案，词作负责
 - [caolvchongp](https://github.com/caolvchongp) 调校负责
 - [southrainy](https://github.com/southrainy) 人设负责
