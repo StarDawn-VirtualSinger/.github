@@ -11,7 +11,15 @@
 - [【重要】启明星晓StarDawn标准素材库](https://github.com/StarDawn-VirtualSinger/clip-library)
 - [【重要】启明星晓StarDawn VI（品牌视觉设计识别系统）规范](https://github.com/StarDawn-VirtualSinger/VI-norms)
 
-2. 其他网站
+2. 同人创作类
+
+- [启明星晓StarDawn 公开人物设定库](https://github.com/StarDawn-VirtualSinger/character-set)
+
+3. 声库类/技术类
+
+- 啥也没有～
+
+4. 其他网站
 
 - [爱发电](https://afdian.net/a/starteam)
 
