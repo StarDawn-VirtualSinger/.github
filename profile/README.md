@@ -8,7 +8,8 @@
 
 1. 设计类
 
-- [素材库](https://github.com/StarDawn-VirtualSinger/clip-library)
+- [【重要】启明星晓StarDawn标准素材库](https://github.com/StarDawn-VirtualSinger/clip-library)
+- [【重要】启明星晓StarDawn VI（品牌视觉设计识别系统）规范](https://github.com/StarDawn-VirtualSinger/VI-norms)
 
 2. 其他网站
 
