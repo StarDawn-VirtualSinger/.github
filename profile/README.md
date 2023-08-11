@@ -41,7 +41,7 @@
 - [caolvchongp](https://github.com/caolvchongp) 调校负责
 - [southrainy](https://github.com/southrainy) 人设负责
 - 诗韵 文案，音频处理负责
-- Q78KG 技术负责
+- [Q78KG](https://github.com/SuSWhW) 技术负责
 - 音乐人序曲 编曲负责
 - 一只幻天 编曲负责
 - 半匹红纱一尺绫 人设负责
