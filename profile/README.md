@@ -1,4 +1,7 @@
-# 启明星晓虚拟歌手企划 StarDawn-VirtualSinger
+<div align="center">
+  <img src = 'https://s3.bmp.ovh/imgs/2023/08/11/56d20302679013a4.png' >
+<h1>启明星晓虚拟歌手企划 StarDawn-VirtualSinger</h1>
+</div>
 
 ### 简介
 
@@ -22,6 +25,7 @@
 4. 其他网站
 
 - [爱发电](https://afdian.net/a/starteam)
+- [官方微博](https://weibo.com/stardawn)
 
 ### 人员
 
