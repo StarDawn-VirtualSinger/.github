@@ -7,6 +7,12 @@
 
 启明星晓（StarDawn）是一个公益性企划，企划内容偏日常向，共有三位歌手，凝希、凝星、凝楚。目前凝希、凝楚正在制作中。企划组希望三姐妹像启明星一样为虚拟歌手界的拂晓添上三点星光，为ai歌声合成的推广添上一缕希望。同时，启明星晓也准备在未来获得一定收入后将部分收入捐给公益性组织，尽己所能为社会做力所能及的贡献。
 
+### 联系我们
+
+- 使用邮箱：stardawn_virtual_singer@proton.me
+- 官方网站：stardawn.xyz
+- 下面链接里的 其他网站
+
 ### 链接
 
 1. 设计类
@@ -26,6 +32,7 @@
 
 - [爱发电](https://afdian.net/a/starteam)
 - [官方微博](https://weibo.com/stardawn)
+- [官方推特(X)](https://twitter.com/StarDawnTeam)
 
 ### 人员
 
