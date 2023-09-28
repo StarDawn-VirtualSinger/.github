@@ -33,8 +33,10 @@
 |    设计类     | [【重要】启明星晓StarDawn标准素材库](https://github.com/StarDawn-VirtualSinger/clip-library) | [【重要】启明星晓StarDawn VI（品牌视觉设计识别系统）规范](https://github.com/StarDawn-VirtualSinger/VI-norms) |                        -                        |                    -                    |
 | :-----------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :---------------------------------------------: | :-------------------------------------: |
 |  同人创作类   | [启明星晓StarDawn 公开人物设定库](https://github.com/StarDawn-VirtualSinger/character-set) |                              -                               |                        -                        |                    -                    |
-| 声库类/技术类 |                              -                               |                              -                               |                        -                        |                    -                    |
+| 声库类/技术类 | [【StarDawnTools】轻量级Diffsinger全自动音素标注工具](https://github.com/StarDawn-VirtualSinger/fast-phasr-next) |                              -                               |                        -                        |                    -                    |
 |   其他网站    |           [爱发电](https://afdian.net/a/starteam)            |            [官方微博](https://weibo.com/stardawn)            | [官方推特(X)](https://twitter.com/StarDawnTeam) | [QQ频道](https://pd.qq.com/s/8bzisyb61) |
+
+
 
 
 ## 启明星晓 StarDawn 同人创作条约及用户协议
@@ -143,7 +145,7 @@
 若制作SVC模型，请务必让使用者遵守本协议的第二条：用户权利和义务。我们不对任何违反协议的行为负责。制作者需保证声音提供者的隐私和人身安全。
 为了声音提供者的个人隐私安全，我们不会公开任何原始声音数据。
 
-##启明星晓 StarDawn 制作组
+## 启明星晓 StarDawn 制作组
 
 启明星晓 StarDawn 制作组是一个：充满爱（指每天都会聊天），有团队精神（指干活很麻利），有质疑精神（会互杠），有凝聚力（指每天都要开会） 的小组
 
